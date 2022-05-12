@@ -1,0 +1,52 @@
+body, html {height: 100%}
+*{
+  text-decoration: none;
+}
+.bgimg {
+  background-image: url(https://i.top4top.io/p_2009bc87p2.png);
+  min-height: 100%;
+  background-position: center;
+   background-repeat: repeat ;
+}
+
+.header {
+  font-size: 10vh;
+  color: #A5AEAD;
+  text-align: center;
+  border-radius: 13px;
+  width: 7em;
+}
+.header h1 {
+  font-family: 'Changa', sans-serif;
+  font-size: 34px;
+}
+
+.header p {
+
+    color: #A5AEAD;
+    font-family: 'Changa', sans-serif;
+
+}
+.icon {
+  width: 60px;
+  margin-right: 6px ;
+
+}
+
+.nav {
+  background-color: #000;
+  text-align: right;
+  font-family: 'Changa', sans-serif;
+  display: inline-block;
+  width: 100%;
+  padding: 12px;
+  margin: auto;
+  position: fixed;
+  color: #9c898d;
+}
+.navicon {
+  width: 19px;
+}
+nav a:hover {
+  border-top: 1px solid #9c898d;
+}
